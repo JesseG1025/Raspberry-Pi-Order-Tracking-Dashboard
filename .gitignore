@@ -1,0 +1,15 @@
+#Ignore local 
+
+.env
+
+#Ignore Databases
+
+01.db
+*.sqlite
+
+#Ignore Python Cache
+__pycache__/
+*.pyc
+
+#Ignore OS junk
+.DS_Store
